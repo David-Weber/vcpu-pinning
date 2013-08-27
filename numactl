@@ -1,0 +1,12 @@
+# numactl --hardware
+available: 2 nodes (0-1)
+node 0 cpus: 0 1 2 3 8 9 10 11
+node 0 size: 96682 MB
+node 0 free: 40172 MB
+node 1 cpus: 4 5 6 7 12 13 14 15
+node 1 size: 96766 MB
+node 1 free: 37951 MB
+node distances:
+node   0   1 
+  0:  10  21 
+  1:  21  10 

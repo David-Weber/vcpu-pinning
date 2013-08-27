@@ -1,0 +1,10 @@
+# virsh nodeinfo
+CPU model:           x86_64
+CPU(s):              16
+CPU frequency:       2400 MHz
+CPU socket(s):       1
+Core(s) per socket:  4
+Thread(s) per core:  2
+NUMA cell(s):        2
+Memory size:         198091560 KiB
+
